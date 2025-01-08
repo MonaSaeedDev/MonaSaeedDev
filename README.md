@@ -52,7 +52,7 @@ My focus is on mastering **OOP**, **ASP.NET Core**, **Entity Framework Core**, *
 ## 📩 Let's Connect!  
 - **Email**: [mona.sud86@gmail.com](mailto:mona.sud86@gmail.com)  
 - **LinkedIn**: [Mona Saeed](https://www.linkedin.com/in/mona-saeed12?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- **GitHub**: [mona-saeed](https://github.com/mona-saeed)  
+- **GitHub**: [mona-saeed]([https://github.com/mona-saeed](https://github.com/MonaSaeedDev))  
 
 ---
 
